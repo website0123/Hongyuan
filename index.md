@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, my name is Hongyuan. I am currently applying for the 25Fall Phd Position ...
 
 ## Research Interests
 
